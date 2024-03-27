@@ -396,7 +396,7 @@ left: -10%;
 
 }
 
-@media screen and (max-width:380px) {
+@media screen and (max-width:450px) {
 
  
     .banner-content{
@@ -465,6 +465,5 @@ left: -10%;
         left: -.1rem;
     }
     
-   
 
 }
