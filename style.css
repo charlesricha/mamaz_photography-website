@@ -391,7 +391,7 @@ left: -10%;
     
     #footer{
         background: var(--second-bg-color);
-        height: 50vh;
+        height: 30vh;
         }
 
 }
@@ -415,7 +415,7 @@ left: -10%;
     }
 
     #book_Us{
-       height: 170vh;
+       height: 150vh;
       
     }
     .container{
@@ -430,7 +430,7 @@ left: -10%;
     
     }
     .container img{
-        height: 70%;
+        height: 50%;
         border-radius: 15px;
         position: relative;
         left: 20%;
@@ -454,7 +454,7 @@ left: -10%;
     }
     #about_us{
         display: flex;
-        height: 290vh;
+        height: 190vh;
         
     }
     .image1 img{
