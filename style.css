@@ -396,6 +396,8 @@ left: -10%;
 
 }
 
+/*Mobile design*/
+
 @media screen and (max-width:490px) {
 
  
@@ -403,7 +405,9 @@ left: -10%;
         color: var(--text-color-2);
         display: flex;
         flex-direction: column;
-        width: 100%;
+        width: 70%;
+        margin-right:auto;
+        margin-left:auto;
         position: relative;
         top: 30%;
         left: -5%;
@@ -421,8 +425,8 @@ left: -10%;
     .container{
         display: flex;
         flex-direction: column;
-        width: 90%;
-        grid-gap: 10px;
+        width: 48vh;
+        grid-gap: 5px;
         border-radius: 15px;
        background: var(--text-color-2);
        margin: .5rem;
@@ -430,17 +434,18 @@ left: -10%;
     
     }
     .container img{
-        height: 50%;
+        height: 80%;
         border-radius: 15px;
         position: relative;
         left: 20%;
         top: 2%;
     }
     .content-btn{
+        height:20%;
         text-align: center;
-      position: relative;
+     /* position: relative;
       top: -1rem;
-      left: -1rem;
+      left: -1rem;*/
        
     }
     .content-btn h4{
